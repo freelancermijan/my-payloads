@@ -8,6 +8,6 @@ cd
 # Updation
 ```
 cd /usr/share/wordlists/my-payloads/
-git pull
+sudo git pull
 cd
 ```
