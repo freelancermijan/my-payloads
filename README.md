@@ -7,7 +7,7 @@ cd
 ```
 # Updation
 ```
-cd /usr/share/wordlists/
+cd /usr/share/wordlists/my-payloads/
 git pull
 cd
 ```
