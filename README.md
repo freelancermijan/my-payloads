@@ -11,3 +11,7 @@ cd /usr/share/wordlists/my-payloads/
 sudo git pull
 cd
 ```
+### If failed to update then try:
+```
+git config --global --add safe.directory /usr/share/wordlists/my-payloads
+```
